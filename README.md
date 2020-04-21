@@ -1,3 +1,3 @@
-# Django-To-Do-App
+# Django-Todoo-App
 
-Simple TODO App with Bootstrap styling.
+Simple Todo App with Bootstrap styling.
